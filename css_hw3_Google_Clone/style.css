@@ -1,0 +1,229 @@
+/*NavBar Elements Start*/
+.header_list {
+    list-style-type: none;
+    overflow: hidden;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.header_item a {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.header_item {
+    display: inline-flex;
+    margin: 5px;
+}
+
+
+.apps {
+    /* Apps Button image*/
+    width: 16px;
+    height: 16px;
+
+}
+
+.profile_pic {
+    border-radius: 50px;
+    width: 80%;
+
+}
+
+/*NavBar Elements End*/
+
+/*Body Elements Start*/
+.image_logo {
+    text-align: center;
+    margin: 0px;
+    height: 180px;
+}
+
+.logo_jpg {
+    margin-top: 80px;
+}
+
+/* .searching_box {
+    margin:0px 300px 0px 300px;
+    
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    flex-wrap: wrap;
+    border:1px solid #5f6368 ;
+    border-radius: 20px;   
+
+}
+
+.input{
+    width:480px;
+    height:40px;
+    border:none;  
+    
+} */
+
+.input-enter {
+    display: flex;
+    justify-content: center;   
+    flex: 1;
+    flex-wrap: wrap;
+}
+  
+.input-area {   
+    
+    white-space: pre;
+    font: 16px arial, sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+
+  .search {
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 16px;
+    padding-left: 14px;
+  }
+  
+.input {
+    
+    margin: 0;
+    padding: 0;
+    width:480px;
+    color: rgba(0, 0, 0, 0.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    /* flex: 100%; */
+    margin-top: -68px;
+    font: 16px arial, sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: start;
+    appearance: textfield;
+    cursor: text;
+    border: none;
+  }
+
+.img_voice{
+    display: flex;
+    justify-content: flex-end;
+    margin:5px 0px 5px 5px;
+    
+    height:24px;
+}
+
+.buttons {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    
+}
+
+.buttons button {
+    border: none;
+    border-radius: 3px;
+    padding: 5px 15px;
+}
+
+.buttons button:hover {
+    -webkit-box-shadow: 0px 0px 1px 1px rgba(129, 129, 129, 0.75);
+    -moz-box-shadow: 0px 0px 1px 1px rgba(129, 129, 129, 0.75);
+    box-shadow: 0px 0px 1px 1px rgba(129, 129, 129, 0.75);
+}
+
+
+
+.googlesearch {
+    margin: 11px 4px;
+    padding: 0 16px;
+    font-size: 14px;
+    color: #5f6368;
+    line-height: 27px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    border: 1px bold #f2f2f2;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.feelinglucky {
+    padding: 0 16px;
+    font-size: 14px;
+    color: #5f6368;
+    line-height: 27px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    border: 1px bold #f2f2f2;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sub_p{
+    font-family: 'Arial',sans-serif;
+    font-size: 13px;
+    font-weight: lighter;
+    color: #5f6368;
+    text-align: center;
+    margin:50px;
+}
+
+.sub_p a{
+    text-decoration: none;
+}
+/*Body Elements End*/
+
+/*Footer Elements Start*/
+.footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 10px;
+    background-color: #f2f2f2;
+}
+
+.footerli {
+    float: left;
+    list-style-type: none;
+}
+
+.footerli a {
+    display: block;
+    color: #70757a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+}
+
+.footerli a:hover {
+    text-decoration: underline;
+}
+/*Footer Elements End*/
+
+
+
