@@ -1,0 +1,70 @@
+/* Logo Position */
+.logo{
+    text-align:center;
+
+}
+
+/* Searching Box  */
+.searching{
+    text-align:center;
+    background-color: #EEEEEE;
+    margin:5px 60px 5px 60px;
+
+}
+
+
+
+
+/* sub menu parts starts */
+/* box_1 (on the left side) */
+.box_1{
+    background-color:#7EE5DA;
+    width:35%;
+    height: 100px;
+    margin-left:60px;  
+    float:left; 
+}
+
+/* box_2 (in the middle) */
+.box_2{
+    background-color:#70CCC2;
+    width:15%;
+    margin-left:10px;
+    float:left;
+     
+
+}
+
+/* box_3 (on the right side) */
+.box_3{
+    background-color:#62B3AA;
+    width:40.8%;
+    height:100px;
+    margin-left:10px; 
+    text-align:center; 
+    float:left;
+
+}
+
+/* list elements */
+ul{
+    list-style-type: none;
+    text-align: center;
+    padding:0;
+}
+
+.box_2_item{
+    font-size:14px;
+}
+
+/* footer element */
+.foot{
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    margin-top: 5px;
+    padding-top: 12px;
+    font-size: 12px;
+}
+
