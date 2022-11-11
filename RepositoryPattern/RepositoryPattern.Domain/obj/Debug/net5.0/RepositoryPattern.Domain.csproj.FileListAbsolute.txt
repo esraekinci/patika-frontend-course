@@ -1,0 +1,15 @@
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.deps.json
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.runtimeconfig.json
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.runtimeconfig.dev.json
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.dll
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.pdb
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.csproj.AssemblyReference.cache
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.AssemblyInfoInputs.cache
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.AssemblyInfo.cs
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.csproj.CoreCompileInputs.cache
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.dll
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\refint\RepositoryPattern.Domain.dll
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.pdb
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.genruntimeconfig.cache
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\ref\RepositoryPattern.Domain.dll
